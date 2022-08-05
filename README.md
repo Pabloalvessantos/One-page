@@ -1,4 +1,4 @@
-<h1 align="center">CADASTRO DE VEÍCULO</h1>
+<h1 align="center">ONE PAGE</h1>
 
 <h1 align="center">
     <img src="./src/one-page.gif">
